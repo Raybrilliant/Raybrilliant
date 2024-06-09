@@ -13,10 +13,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raybrilliant&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raybrilliant&theme=neon&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=raybrilliant&limit=5&theme=neon&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=raybrilliant&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
+### Have you smiled today ?
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
