@@ -8,8 +8,8 @@ Hi, I'm Raihan Brilliansyach! Currently diving deep into Next.js with over 2 yea
 
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raybrilliant&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raybrilliant&langs_count=5)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raybrilliant&show_icons=true&theme=transparent" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybrilliant&langs_count=5" />
 
 ### Have you smiled today ?
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
