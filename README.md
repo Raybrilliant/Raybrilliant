@@ -8,10 +8,10 @@ Hi, I'm Raihan Brilliansyach! Currently diving deep into Next.js with over 1 yea
 ---
 
 <span>
-<img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=raybrilliant&show_icons=true&theme=transparent" />
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=raybrilliant&show_icons=true&theme=transparent" />
 </span>
 <span>
-<img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybrilliant&langs_count=5" />
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybrilliant&langs_count=5" />
 </span>
 
 ---
