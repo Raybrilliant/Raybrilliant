@@ -1,19 +1,20 @@
-## Hola, Rey here! 🌟  [![](https://visitcount.itsvg.in/api?id=raybrilliant&icon=3&color=13)](https://visitcount.itsvg.in)
-Hi, I'm Raihan Brilliansyach! Currently diving deep into Next.js with over 2 years of web development experience. Always up for new tech adventures! 🚀
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raybrilliant) <br> 
+## Hola, Rey here! 🌟 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raybrilliant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raybrilliant) 
 
+Hi, I'm Raihan Brilliansyach! Currently diving deep into Next.js with over 1 years of web development experience. Always up for new tech adventures! 🚀 </br></br>
+<img src='https://visitcount.itsvg.in/api?id=raybrilliant&icon=5&color=13' style="justify:'end"/>
 
-# 📊 GitHub Stats:
+---
+
 <span>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=raybrilliant&show_icons=true&theme=transparent" />
+<img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=raybrilliant&show_icons=true&theme=transparent" />
 </span>
 <span>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybrilliant&langs_count=5" />
+<img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybrilliant&langs_count=5" />
 </span>
 
-### Have you smiled today ?
+---
+
+### free meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
