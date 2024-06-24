@@ -8,14 +8,13 @@ Hi, I'm Raihan Brilliansyach! Currently diving deep into Next.js with over 2 yea
 ---
 
 <span>
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=raybrilliant&show_icons=true&theme=transparent" />
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=raybrilliant&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
 </span>
 <span>
 <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybrilliant&langs_count=5" />
 </span>
-<img align="center" width='full' src='https://streak-stats.demolab.com/?user=raybrilliant' />
+<img align="center" width='full' src='https://github-readme-streak-stats.herokuapp.com/?user=raybrilliant&theme=transparent&hide_border=false' />
 
 ---
 
-### free meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://pbs.twimg.com/media/GQjRwmkakAEpabM?format=jpg&name=medium' style="height: 400px;"/>
