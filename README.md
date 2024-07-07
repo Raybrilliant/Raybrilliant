@@ -17,4 +17,4 @@ Hi, I'm Raihan Brilliansyach! Currently diving deep into Next.js with over 2 yea
 
 ---
 
-<img src='https://pbs.twimg.com/media/GQjRwmkakAEpabM?format=jpg&name=medium' style="height: 400px;"/>
+<img src='https://pbs.twimg.com/media/GRyYbBWWwAAD177?format=png&name=900x900' style="height: 400px;"/>
