@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raybrilliant) 
 
 Hi, I'm Raihan Brilliansyach! Currently diving deep into Laravel Inertia with over 2 years of web development experience. Always up for new tech adventures! 🚀 </br></br>
-<img src='https://visitcount.itsvg.in/api?id=raybrilliant&icon=5&color=13' style="justify:'end"/>
+![](https://komarev.com/ghpvc/?username=raybrilliant&abbreviated=true)
 
 ---
 
