@@ -11,12 +11,12 @@
 
 <br/>
 
-<a href="https://instagram.com/raybrilliant"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://linkedin.com/in/raybrilliant"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/raybrilliant"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/raybrilliant"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=raybrilliant&abbreviated=true&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=raybrilliant&abbreviated=true&style=flat-square&color=EC4899&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -38,15 +38,15 @@ Hi! I'm **Raihan Brilliansyach** — most people call me **Rey**. I'm a web deve
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 
 **Frameworks & Libraries**
 
-![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat-square&logo=svelte&logoColor=white) ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=flat-square&logo=elysia&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-8B5CF6?style=flat-square&logo=elysia&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 
 **Runtimes & Tools**
 
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-000000?style=flat-square&logo=zedindustries&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-FBF0DF?style=flat-square&logo=bun&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
 
 </div>
 
